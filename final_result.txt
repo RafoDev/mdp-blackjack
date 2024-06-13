@@ -1,0 +1,82 @@
+******************************
+Code quality:
+------------------------------
+Code grade: 9.69/10.0	(Great code quality)
+------------------------------
+Standards deviation:
+convention:	1
+error:	0
+fatal:	0
+info:	0
+refactor:	1
+statement:	129
+warning:	2
+------------------------------
+Deviation description:
+consider-using-enumerate:	1
+too-many-nested-blocks:	1
+broad-exception-raised:	2
+******************************
+Tests:
+------------------------------
+Parte01-01 Modeling MDPs:
+Modeling MDPs:	2/2 correct
+Test concluded without errors
+Grade in the Test01: 10.0/10.0
+------------------------------
+Part02-01 ValueIteration::
+ValueIteration:	1/1 correct
+Test concluded without errors
+Grade in the Test02-01: 10.0/10.0
+------------------------------
+Part02-02 Peeking MDP:
+Peeking MDP:	1/1 correct
+Test concluded without errors
+Grade in the Test02-02: 10.0/10.0
+------------------------------
+Part03-01 QLearningAlgorithm:
+Python error: Not implemented yet
+Test did not concluded
+Receiving grade 0.0 in the test
+Grade in the Test03-01: 0.0/10.0
+******************************
+Code quality:
+------------------------------
+Code grade: 9.68/10.0	(Great code quality)
+------------------------------
+Standards deviation:
+convention:	1
+error:	0
+fatal:	0
+info:	0
+refactor:	1
+statement:	126
+warning:	2
+------------------------------
+Deviation description:
+consider-using-enumerate:	1
+too-many-nested-blocks:	1
+broad-exception-raised:	2
+******************************
+Tests:
+------------------------------
+Parte01-01 Modeling MDPs:
+Modeling MDPs:	2/2 correct
+Test concluded without errors
+Grade in the Test01: 10.0/10.0
+------------------------------
+Part02-01 ValueIteration::
+ValueIteration:	1/1 correct
+Test concluded without errors
+Grade in the Test02-01: 10.0/10.0
+------------------------------
+Part02-02 Peeking MDP:
+Peeking MDP:	1/1 correct
+Test concluded without errors
+Grade in the Test02-02: 10.0/10.0
+------------------------------
+Part03-01 QLearningAlgorithm:
+Python error: Not implemented yet
+Test did not concluded
+Receiving grade 0.0 in the test
+Grade in the Test03-01: 0.0/10.0
